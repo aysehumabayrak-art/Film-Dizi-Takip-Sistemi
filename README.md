@@ -40,6 +40,3 @@ Projeyi çalıştırmak için sisteminizde **Java JDK 8 veya üzeri** bir sürü
 
 1. Depoyu klonlayın veya ZIP olarak indirin.
 2. Ana dizindeki **`Derle_ve_Calistir.bat`** dosyasını çift tıklayarak çalıştırın.
-3. Giriş ekranında varsayılan bilgileri kullanabilirsiniz:
-   * **Kullanıcı Adı:** `admin`
-   * **Şifre:** `1234`# Film-Dizi-Takip-Sistemi
