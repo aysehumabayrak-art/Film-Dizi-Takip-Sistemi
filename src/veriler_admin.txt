@@ -1,0 +1,106 @@
+# ====================================================================
+# Kişisel Film ve Dizi Takip Sistemi - Kullanıcı Oturum Verileri
+# Kullanıcı: admin
+# Toplam Kayıt Sayısı: 10
+# ====================================================================
+
+[YAPIM]
+Ad=Dune: Part Two
+Tur=Film
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://cdn.sinemalar.com/images/movie/274150/gallery/dune-2-1708088443.jpg
+Yorum=Sinemada izlemek için sabırsızlanıyorum, ilk filmi çok beğenmiştim.
+[SON]
+
+[YAPIM]
+Ad=Breaking Bad
+Tur=Dizi
+Durum=Nötr
+Puan=0
+Spoiler=true
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaU70LeqrcOhtLvFbajq9O2ro87I7T-hZd91evM8ElQ&s=10
+Yorum=Dizi tarihinin en kusursuz finaline sahip başyapıtı. Karakter gelişimleri ders niteliğinde.
+[SON]
+
+[YAPIM]
+Ad=Inception
+Tur=Film
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrFOFA31IxsW8YTci1RxsdapEdUHace1q7tLb43EE0w&s=10
+Yorum=Christopher Nolan'dan rüya içinde rüya konseptli muazzam bir bilim kurgu başyapıtı. Müzikler olağanüstü.
+[SON]
+
+[YAPIM]
+Ad=Severance
+Tur=Dizi
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3g_n3G9-mp9z9vFv2OdhrdizmB6Bf4P6oo6FPQKTDzg&s=10
+Yorum=İş ve özel hayat ayrımını konu alan distopik gizem dizisi.
+[SON]
+
+[YAPIM]
+Ad=Interstellar
+Tur=Film
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6MBU9VxzNxqU0gzzOsgDR0Mpxn4_6BDHIzD-Xc8YaQ&s=10
+Yorum=Uzay-zaman bükülmesi ve baba-kız ilişkisini harika bağlayan bir başyapıt.
+[SON]
+
+[YAPIM]
+Ad=The Dark Knight
+Tur=Film
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3PhCcXO0pyxx4bXbkEJbCmPNQNj7nmFjdN1gPy0JCsw&s=10
+Yorum=Joker performansıyla sinema tarihinin en iyi çizgi roman uyarlaması.
+[SON]
+
+[YAPIM]
+Ad=Fight Club
+Tur=Film
+Durum=Nötr
+Puan=0
+Spoiler=true
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnNDrJNgxA5hZPfuhD6Shb7wmNdvJ_lJe90KTII7vbQ&s=10
+Yorum=Kült bir klasik, sonundaki ters köşesiyle sinema efsanesi.
+[SON]
+
+[YAPIM]
+Ad=Stranger Things
+Tur=Dizi
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPls9rZtuIWtDvESGz-JtttBHQE2O__xbeluI6oUADQ&s=10
+Yorum=80'ler nostaljisi ve fantastik gizem örgüsü çok sürükleyici.
+[SON]
+
+[YAPIM]
+Ad=Chernobyl
+Tur=Dizi
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-EoF0OqwnI4ivHEhphaEd9sVrUxMsI5dsIkKRZoA7sg&s=10
+Yorum=Gerilimi her saniye hissettiren muazzam bir mini dizi.
+[SON]
+
+[YAPIM]
+Ad=Succession
+Tur=Dizi
+Durum=Nötr
+Puan=0
+Spoiler=false
+AfisUrl=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnbkrKBEJQGyNwpzto8ju7maYPQze_DJa7ktZZcsFSw&s=10
+Yorum=admin: Güç ve aile çatışmasını anlatan çok övülen bir yapım.
+[SON]
+
